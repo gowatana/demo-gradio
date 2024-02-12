@@ -1,4 +1,6 @@
-# demo-gradio
+# Gradio OpenAI Service デモ
+
+Gradioで、簡易的なAzure OpenAI Service の Web UIを作成する。
 
 ## 前提環境
 
